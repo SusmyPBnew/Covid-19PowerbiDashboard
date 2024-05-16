@@ -81,5 +81,5 @@
 
 <p>In the above analysis using graphs and table structure, we get a complete picture about the Covid-19 Report Analysis.It helpful for data analysis and make reports.So power-bi is an effective tool for this.</p>
 
-Check out this video for complete flow about Project : [(https://drive.google.com/file/d/1cBODRz3Ye7D9Lhp3vGXWz4oo9U5Loeer/view?usp=drive_link)]
+Check out this video for complete flow about Project : [(https://drive.google.com/file/d/1Mtmjy8gSiWIdhnkgAGenR-a4DVeylLrl/view?usp=drive_link)]
 
